@@ -50,7 +50,7 @@ Gamenight was completed as part of Turing School of Software & Designs’ intens
  
 ## Site Overview 
 
-Click below image to watch general overview:
+Click below image to watch a general overview:
 
 [![Watch the video](https://img.youtube.com/vi/y8cjMxYtz5Q/0.jpg)](https://www.youtube.com/watch?v=y8cjMxYtz5Q)
 
